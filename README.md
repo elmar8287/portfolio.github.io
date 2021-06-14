@@ -14,7 +14,7 @@ This is the milestone of deploying the project via github pages.
 - Figma
 
 ## Live demo
-
+https://elmar8287.github.io/portfolio.github.io/
 
 ## Author
 
