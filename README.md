@@ -1,8 +1,8 @@
-# Portfolio: mobile version
+# Portfolio: Desktop version
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-> We build our portfolio mobile website
+> We build our portfolio desktop website
 
 ![Screen Shot](./desktop-version.PNG)
 
@@ -20,10 +20,8 @@ This is the first milestone in the process of creating our portfolio website.
 - GitHub: [@elmar8287](https://github.com/elmar8287)
 
 
-:bust_in_silhouette: **Simon Grcevski**
-
-[GitHub]( https://github.com/SimonGrchevski )
-[LinkedIn]( https://www.linkedin.com/in/simon-grchevski-682935209/ )
+## Live demo
+You can visit live version via [link](https://elmar8287.github.io/portfolio.github.io/)
 
 
 ## 🤝 Contributing
