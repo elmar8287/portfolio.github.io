@@ -2,25 +2,26 @@
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-> Here is my portfolio website
+> We build our portfolio desktop website
 
-![Screen Shot](./scrnsht.PNG)
+![Screen Shot](./desktop-version.PNG)
 
-This is the milestone of deploying the project via github pages.
+This is the first milestone in the process of creating our portfolio website.
 
 ## Built With
 
 - HTML/CSS
 - Figma
 
-## Live demo
-https://elmar8287.github.io/portfolio.github.io/
-
-## Author
+## Authors
 
 👤 **Elmar Abdulkarimov**
 
 - GitHub: [@elmar8287](https://github.com/elmar8287)
+
+
+## Live demo
+You can visit live version via [link](https://elmar8287.github.io/portfolio.github.io/)
 
 
 ## 🤝 Contributing
