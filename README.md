@@ -1,16 +1,14 @@
-# Portfolio: Desktop version
+# Portfolio: Adding mobile menu
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-> We build our portfolio desktop website
+> We add mobil menu using JS
 
 ![Screen Shot](./desktop-version.PNG)
 
-This is the first milestone in the process of creating our portfolio website.
-
 ## Built With
 
-- HTML/CSS
+- HTML/CSS/JS
 - Figma
 
 ## Authors
